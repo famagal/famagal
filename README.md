@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL, Python**
 
-- 📫 How to reach me **famagal@hotmail.com**
+- 📫 How to reach me: **famagal@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
