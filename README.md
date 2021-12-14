@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fábio</h1>
 <h3 align="center">An aspiring data analyst</h3>
 
-- 🌱 I’m currently learning **SQL, Python**
+- 🌱 I’m currently learning more on **SQL, Python**
 
 - 📫 How to reach me: **famagal@hotmail.com**
 
