@@ -3,8 +3,11 @@
 
 - 🌱 I’m currently learning more on **SQL, Python**
 
+- 👯 I’m looking to collaborate on **data science projects**
+
 - 📫 How to reach me: **famagal@hotmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
